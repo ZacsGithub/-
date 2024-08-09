@@ -6,8 +6,7 @@
 **现在网上免费代理IP网站越来越少，而且免费的代理质量非常不稳定，本文只是提供构建代理IP池的一种思路，实战的话还是要想办法获取优质的代理。**
 
 ## 代理池系统具体实现思路
-![avatar]([http://baidu.com/pic/doge.png](https://github.com/ZacsGithub/PythonCrawlerCode/blob/main/agent_pool/proxypool.png?raw=true))
-
+![proxypoolpng](https://github.com/ZacsGithub/PythonCrawlerCode/blob/main/agent_pool/proxypool.png?raw=true)
 
 ## [代理池完整代码](agent_pool)
 
